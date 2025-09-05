@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+padding: 0;
+    box-sizing: border-box;
+}
+.quba{
+    text-align: center;
+    font-weight: bold;
+}
+.imageler{
+    width: 32vw;
+    height: 40vh;
+    
+}
+#x{
+}
+.aaa{
+    width: 32vw;
+    height: 40vh;
+}
+span{
+    font-weight: bolder;
+}
+.x{
+    width: 32vw;
+    height: 40vh;
+}
+p{
+    font-weight: bolder;
+    font-size: large;
+}
